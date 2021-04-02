@@ -2,7 +2,13 @@
 そこら辺にいる広島の工業高校生です。
 C#を使っていろいろ作ってます
 メタプログラミングが好きです
+
+### Stats Card
+
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=binary-number)
+
+### Languages Card
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=binary-number)
 ### GitHubにてソースを公開しているプロジェクト
 
 **GUIでC#のソースコードを生成実行するソフト**
