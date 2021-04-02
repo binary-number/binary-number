@@ -5,7 +5,7 @@ C#を使っていろいろ作ってます
 
 ### Stats Card
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=binary-number)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=binary-number&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)
 
 ### Languages Card
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=binary-number)
@@ -13,19 +13,19 @@ C#を使っていろいろ作ってます
 
 **GUIでC#のソースコードを生成実行するソフト**
 
-![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=binary-number&repo=EasyCodeBuilder)
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=binary-number&repo=EasyCodeBuilder)](https://github.com/binary-number/EasyCodeBuilder)
 
 
 
 **簡単な電卓ソフト**
 
-![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=binary-number&repo=Calculator)
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=binary-number&repo=Calculator)](https://github.com/binary-number/Calculator)
 
 
 
 **140ステップで実装したシューティングゲーム**
 
-![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=binary-number&repo=140StepsShooting)
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=binary-number&repo=140StepsShooting)](https://github.com/binary-number/140StepsShooting)
 
 
 ### アカウント
