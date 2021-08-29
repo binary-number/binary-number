@@ -32,7 +32,7 @@ C#を使っていろいろ作ってます
 [Twitter](https://twitter.com/Binary__number)
 
 
-[Qiita](https://qiita.com/BinaryNumber)
+[Qiita](https://qiita.com/Binary_number)
 
 <!--
 **binary-number/binary-number** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
