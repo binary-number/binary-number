@@ -29,8 +29,6 @@ C#を使っていろいろ作ってます
 
 
 ### アカウント
-[Twitter](https://twitter.com/Binary__number)
-
 
 [Qiita](https://qiita.com/Binary_number)
 
